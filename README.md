@@ -87,3 +87,10 @@ Debug your code using natural language
 
 ## ⚠️ Disclaimer
 This project uses OpenAI's API and requires a valid API key. Make sure not to expose your API key publicly.
+
+## 🙌 Acknowledgments
+OpenAI
+
+MERN Stack
+
+Inspiration from ChatGPT UI and logic
